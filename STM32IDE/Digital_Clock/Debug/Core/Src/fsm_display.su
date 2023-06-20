@@ -1,0 +1,2 @@
+../Core/Src/fsm_display.c:41:6:restartDisplay	16	static
+../Core/Src/fsm_display.c:45:6:fsm_display	8	static

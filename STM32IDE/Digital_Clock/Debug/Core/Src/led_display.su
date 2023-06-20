@@ -1,0 +1,3 @@
+../Core/Src/led_display.c:6:6:display_analog_clock	16	static
+../Core/Src/led_display.c:192:6:clearAllClock	8	static
+../Core/Src/led_display.c:207:6:onAllClock	8	static
